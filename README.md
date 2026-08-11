@@ -1,6 +1,6 @@
 # India Skill Gap Analysis
 
-**#📊Dashboard preview**
+**<h2>📊Dashboard preview</h2>**
 <img width="1587" height="918" alt="dashboard_preview" src="https://github.com/user-attachments/assets/f68d9c41-da5c-428a-8ed2-cf37e23995f4" />
 
 
@@ -351,7 +351,6 @@ India's_skill_gap_analysis/
 │   └── verify_dataset.py
 │
 ├── .gitignore
-├── requiremnets.txt
 └── README.md
 
 
