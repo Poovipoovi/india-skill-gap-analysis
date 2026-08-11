@@ -1,6 +1,6 @@
 # India Skill Gap Analysis
 
-**#Dashboard preview**
+**#📊Dashboard preview**
 <img width="1587" height="918" alt="dashboard_preview" src="https://github.com/user-attachments/assets/f68d9c41-da5c-428a-8ed2-cf37e23995f4" />
 
 
