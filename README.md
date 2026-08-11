@@ -1,5 +1,9 @@
 # India Skill Gap Analysis
 
+**#Dashboard preview**
+<img width="1587" height="918" alt="dashboard_preview" src="https://github.com/user-attachments/assets/f68d9c41-da5c-428a-8ed2-cf37e23995f4" />
+
+
 ## 📌 Project Overview
 
 **India Skill Gap Analysis** is a data analytics project that studies the gap between **skills demanded by the industry** and the **skills covered in engineering college curricula**.
