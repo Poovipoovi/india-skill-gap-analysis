@@ -474,7 +474,7 @@ Possible future improvements include:
 
 # 👩‍💻 Authors
 
-**Poovipoovi**
+**Poovizhi A**
 
 Computer Science and Engineering
 
