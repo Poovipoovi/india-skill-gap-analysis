@@ -1,0 +1,109 @@
+﻿College,Skill,Industry Demand (%),Industry Score,College Score,Gap Score,Interpretation
+IIT Madras,Python,35.36,2,0,2,Curriculum Behind Industry
+IIT Madras,Communication,32.52,2,2,0,Well Aligned
+IIT Madras,Excel,24.16,1,1,0,Well Aligned
+IIT Madras,SQL,18.35,1,0,1,Curriculum Behind Industry
+IIT Madras,Data Analytics,15.38,1,1,0,Well Aligned
+IIT Madras,ML,13.36,1,2,-1,Curriculum Ahead of Industry
+IIT Madras,Problem Solving,5.4,0,2,-2,Curriculum Ahead of Industry
+IIT Madras,Power BI,4.18,0,2,-2,Curriculum Ahead of Industry
+IIT Madras,Data Viz,4.05,0,1,-1,Curriculum Ahead of Industry
+IIT Madras,Tableau,2.83,0,0,0,Well Aligned
+IIT Madras,Statistics,1.08,0,0,0,Well Aligned
+IIT Madras,ETL,0.13,0,0,0,Well Aligned
+IIT Bombay,Python,35.36,2,2,0,Well Aligned
+IIT Bombay,Communication,32.52,2,2,0,Well Aligned
+IIT Bombay,Excel,24.16,1,1,0,Well Aligned
+IIT Bombay,SQL,18.35,1,1,0,Well Aligned
+IIT Bombay,Data Analytics,15.38,1,1,0,Well Aligned
+IIT Bombay,ML,13.36,1,2,-1,Curriculum Ahead of Industry
+IIT Bombay,Problem Solving,5.4,0,2,-2,Curriculum Ahead of Industry
+IIT Bombay,Power BI,4.18,0,1,-1,Curriculum Ahead of Industry
+IIT Bombay,Data Viz,4.05,0,1,-1,Curriculum Ahead of Industry
+IIT Bombay,Tableau,2.83,0,0,0,Well Aligned
+IIT Bombay,Statistics,1.08,0,0,0,Well Aligned
+IIT Bombay,ETL,0.13,0,0,0,Well Aligned
+IIT Delhi,Python,35.36,2,0,2,Curriculum Behind Industry
+IIT Delhi,Communication,32.52,2,2,0,Well Aligned
+IIT Delhi,Excel,24.16,1,1,0,Well Aligned
+IIT Delhi,SQL,18.35,1,1,0,Well Aligned
+IIT Delhi,Data Analytics,15.38,1,1,0,Well Aligned
+IIT Delhi,ML,13.36,1,2,-1,Curriculum Ahead of Industry
+IIT Delhi,Problem Solving,5.4,0,2,-2,Curriculum Ahead of Industry
+IIT Delhi,Power BI,4.18,0,2,-2,Curriculum Ahead of Industry
+IIT Delhi,Data Viz,4.05,0,1,-1,Curriculum Ahead of Industry
+IIT Delhi,Tableau,2.83,0,0,0,Well Aligned
+IIT Delhi,Statistics,1.08,0,0,0,Well Aligned
+IIT Delhi,ETL,0.13,0,0,0,Well Aligned
+NIT Trichy,Python,35.36,2,1,1,Curriculum Behind Industry
+NIT Trichy,Communication,32.52,2,2,0,Well Aligned
+NIT Trichy,Excel,24.16,1,1,0,Well Aligned
+NIT Trichy,SQL,18.35,1,1,0,Well Aligned
+NIT Trichy,Data Analytics,15.38,1,1,0,Well Aligned
+NIT Trichy,ML,13.36,1,2,-1,Curriculum Ahead of Industry
+NIT Trichy,Problem Solving,5.4,0,2,-2,Curriculum Ahead of Industry
+NIT Trichy,Power BI,4.18,0,1,-1,Curriculum Ahead of Industry
+NIT Trichy,Data Viz,4.05,0,1,-1,Curriculum Ahead of Industry
+NIT Trichy,Tableau,2.83,0,1,-1,Curriculum Ahead of Industry
+NIT Trichy,Statistics,1.08,0,0,0,Well Aligned
+NIT Trichy,ETL,0.13,0,0,0,Well Aligned
+NIT Surathkal,Python,35.36,2,0,2,Curriculum Behind Industry
+NIT Surathkal,Communication,32.52,2,2,0,Well Aligned
+NIT Surathkal,Excel,24.16,1,1,0,Well Aligned
+NIT Surathkal,SQL,18.35,1,1,0,Well Aligned
+NIT Surathkal,Data Analytics,15.38,1,1,0,Well Aligned
+NIT Surathkal,ML,13.36,1,2,-1,Curriculum Ahead of Industry
+NIT Surathkal,Problem Solving,5.4,0,2,-2,Curriculum Ahead of Industry
+NIT Surathkal,Power BI,4.18,0,1,-1,Curriculum Ahead of Industry
+NIT Surathkal,Data Viz,4.05,0,1,-1,Curriculum Ahead of Industry
+NIT Surathkal,Tableau,2.83,0,0,0,Well Aligned
+NIT Surathkal,Statistics,1.08,0,0,0,Well Aligned
+NIT Surathkal,ETL,0.13,0,0,0,Well Aligned
+Anna University CSE,Python,35.36,2,1,1,Curriculum Behind Industry
+Anna University CSE,Communication,32.52,2,2,0,Well Aligned
+Anna University CSE,Excel,24.16,1,1,0,Well Aligned
+Anna University CSE,SQL,18.35,1,1,0,Well Aligned
+Anna University CSE,Data Analytics,15.38,1,1,0,Well Aligned
+Anna University CSE,ML,13.36,1,2,-1,Curriculum Ahead of Industry
+Anna University CSE,Problem Solving,5.4,0,2,-2,Curriculum Ahead of Industry
+Anna University CSE,Power BI,4.18,0,1,-1,Curriculum Ahead of Industry
+Anna University CSE,Data Viz,4.05,0,1,-1,Curriculum Ahead of Industry
+Anna University CSE,Tableau,2.83,0,1,-1,Curriculum Ahead of Industry
+Anna University CSE,Statistics,1.08,0,0,0,Well Aligned
+Anna University CSE,ETL,0.13,0,0,0,Well Aligned
+Anna University IT,Python,35.36,2,1,1,Curriculum Behind Industry
+Anna University IT,Communication,32.52,2,2,0,Well Aligned
+Anna University IT,Excel,24.16,1,2,-1,Curriculum Ahead of Industry
+Anna University IT,SQL,18.35,1,1,0,Well Aligned
+Anna University IT,Data Analytics,15.38,1,1,0,Well Aligned
+Anna University IT,ML,13.36,1,2,-1,Curriculum Ahead of Industry
+Anna University IT,Problem Solving,5.4,0,2,-2,Curriculum Ahead of Industry
+Anna University IT,Power BI,4.18,0,1,-1,Curriculum Ahead of Industry
+Anna University IT,Data Viz,4.05,0,2,-2,Curriculum Ahead of Industry
+Anna University IT,Tableau,2.83,0,2,-2,Curriculum Ahead of Industry
+Anna University IT,Statistics,1.08,0,1,-1,Curriculum Ahead of Industry
+Anna University IT,ETL,0.13,0,0,0,Well Aligned
+PSG CSE,Python,35.36,2,1,1,Curriculum Behind Industry
+PSG CSE,Communication,32.52,2,2,0,Well Aligned
+PSG CSE,Excel,24.16,1,2,-1,Curriculum Ahead of Industry
+PSG CSE,SQL,18.35,1,1,0,Well Aligned
+PSG CSE,Data Analytics,15.38,1,1,0,Well Aligned
+PSG CSE,ML,13.36,1,2,-1,Curriculum Ahead of Industry
+PSG CSE,Problem Solving,5.4,0,2,-2,Curriculum Ahead of Industry
+PSG CSE,Power BI,4.18,0,1,-1,Curriculum Ahead of Industry
+PSG CSE,Data Viz,4.05,0,2,-2,Curriculum Ahead of Industry
+PSG CSE,Tableau,2.83,0,1,-1,Curriculum Ahead of Industry
+PSG CSE,Statistics,1.08,0,0,0,Well Aligned
+PSG CSE,ETL,0.13,0,0,0,Well Aligned
+Adhiyamaan CSE,Python,35.36,2,1,1,Curriculum Behind Industry
+Adhiyamaan CSE,Communication,32.52,2,2,0,Well Aligned
+Adhiyamaan CSE,Excel,24.16,1,2,-1,Curriculum Ahead of Industry
+Adhiyamaan CSE,SQL,18.35,1,1,0,Well Aligned
+Adhiyamaan CSE,Data Analytics,15.38,1,1,0,Well Aligned
+Adhiyamaan CSE,ML,13.36,1,2,-1,Curriculum Ahead of Industry
+Adhiyamaan CSE,Problem Solving,5.4,0,2,-2,Curriculum Ahead of Industry
+Adhiyamaan CSE,Power BI,4.18,0,1,-1,Curriculum Ahead of Industry
+Adhiyamaan CSE,Data Viz,4.05,0,1,-1,Curriculum Ahead of Industry
+Adhiyamaan CSE,Tableau,2.83,0,1,-1,Curriculum Ahead of Industry
+Adhiyamaan CSE,Statistics,1.08,0,0,0,Well Aligned
+Adhiyamaan CSE,ETL,0.13,0,0,0,Well Aligned

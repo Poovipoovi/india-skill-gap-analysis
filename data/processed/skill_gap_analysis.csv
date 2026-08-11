@@ -1,0 +1,13 @@
+Skill,Industry Demand (%),College Coverage (%),Gap,Status
+Python,35.36,100.0,-64.64,Well Covered
+Communication,32.52,100.0,-67.48,Well Covered
+Excel,24.16,0.0,24.16,Critical Gap
+SQL,18.35,100.0,-81.65,Well Covered
+Data Analytics,15.38,0.0,15.38,Critical Gap
+Machine Learning,13.36,62.5,-49.14,Moderately Covered
+Problem Solving,5.4,100.0,-94.6,Moderately Covered
+Power BI,4.18,0.0,4.18,Low Priority
+Data Visualization,4.05,12.5,-8.45,Low Priority
+Tableau,2.83,0.0,2.83,Low Priority
+Statistics,1.08,100.0,-98.92,Moderately Covered
+ETL,0.13,0.0,0.13,Low Priority
